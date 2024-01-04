@@ -1,0 +1,6 @@
+.place-description {
+  max-width: 100ch;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
